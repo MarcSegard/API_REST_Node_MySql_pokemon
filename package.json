@@ -1,0 +1,20 @@
+{
+  "name": "api_rest_node_mysql_pokemon",
+  "version": "1.0.0",
+  "description": "Cours API REST Node MySql",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Marc SEGARD",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "serve-favicon": "^2.5.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
+}
